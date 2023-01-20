@@ -1,2 +1,3 @@
+# Salesforce
 # AppleWatch
-AppleWatch trigger and test class
+Providing with free Apple Watch after closed opportunity
